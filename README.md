@@ -1,7 +1,7 @@
 # API Product Management with Authentication
 
 ## Deskripsi
-Proyek ini adalah sebuah API untuk manajemen produk dengan fitur CRUD (Create, Read, Update, Delete). API ini menggunakan **Spring Boot** dan dilengkapi dengan sistem autentikasi sederhana untuk memastikan keamanan akses. Setiap operasi API memberikan respons yang informatif dengan pesan status yang jelas.
+Proyek ini adalah sebuah API untuk manajemen produk dengan fitur CRUD (Create, Read, Update, Delete). API ini menggunakan **Spring Boot** dan dilengkapi dengan sistem autentikasi sederhana untuk memastikan keamanan akses. Setiap operasi API memberikan respons yang informatif dengan pesan status yang jelas. API ini juga mendukung tampilan web dengan Spring MVC & Thymeleaf.
 
 ## Fitur Utama
 1. **Create Product**: Menambah produk baru ke sistem dengan data seperti nama, deskripsi, dan harga.
